@@ -1,0 +1,9 @@
+.counterContainer{
+  margin: 0 auto;
+  margin-left: 50%;
+}
+
+.counterButton{
+  margin-right: 20px;
+  margin-bottom: 20px
+}
