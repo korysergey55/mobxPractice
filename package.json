@@ -2,7 +2,7 @@
   "name": "123",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://korysergey55.github.io/mobxPractice",
+  "homepage": "https://korysergey55.github.io/mobxPracticePhonebook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
